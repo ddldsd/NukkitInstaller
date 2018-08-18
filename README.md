@@ -12,7 +12,7 @@ Facoltativo: crea una cartella per i file di Nukkit ```mkdir {Nome della cartell
 
 ENGLISH
 
-Optional: create a folder for Nukkit mkdir files {Folder name} and enter cd {Folder name}<br />
+Optional: create a folder for Nukkit ```mkdir files {Folder name}``` and enter ```cd {Folder name}```<br />
 1. Download the latest version using ```wget```<br />
 2.Allow the file to be executed ```chmod +x installer.sh```<br />
 3.Start Nukkit installation using ```./installer.sh```<br />
