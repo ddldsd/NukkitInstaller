@@ -18,3 +18,5 @@ wget https://github.com/WingedSpade3557/NukkitXStarter/releases/download/1.0/sta
 chmod +x start.sh
 tput sgr0
 tput setaf 2; echo Nukkit Successfully installed. To run it use ./start.sh [tip:use "screen"]
+tput sgr0
+cd Nukkit/
