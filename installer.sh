@@ -5,6 +5,7 @@ tput setaf 3; echo [1] Updating...
 tput sgr0
 apt update
 apt upgrade
+apt install wget
 tput setaf 3; echo [2] Installing required packages...
 apt install openjdk-8-jre-headless
 tput sgr0
