@@ -6,7 +6,7 @@ tput sgr0
 apt update
 apt upgrade
 tput setaf 3; echo [2] Installing required packages...
-apt install default-jdk
+apt install openjdk-8-jre-headless
 tput sgr0
 tput setaf 3; echo [3] Creating required directory...
 mkdir Nukkit
