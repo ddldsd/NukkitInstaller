@@ -1,5 +1,5 @@
 # NukkitInstaller
-An installer for NukkitX software.
+An installer for Nukkit software.
 
 # How to use 
 
